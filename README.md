@@ -1,2 +1,4 @@
-##idiomas
-#esta es la seccion de idiomas
+## idiomas
+-english
+-spanish
+-español
