@@ -1,4 +1,4 @@
 ## idiomas
--english
--spanish
--español
+#inglés: intermedio avanzado
+#español: nativo
+#alemán: basico
